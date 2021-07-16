@@ -7,7 +7,7 @@ and a good adventure!
 
 - 🌱 I’m currently learning Python, Pygame, C#
 - 🤔 I’m looking for help with my ambitious project!
-- 📫 REACH ME by email if you are interested, I will reply ASAP!
+- 📫 REACH ME by email nixiangrui2017@163.com if you are interested, I will reply ASAP!
 
 <!--
 **woodenpython/woodenpython** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
