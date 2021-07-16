@@ -5,6 +5,10 @@ a game, and in the mean time share the whole process here on Github. I am not ac
 really complete this chanllenge, but at least the passion is enough for now to keep me going. Wish me luck
 and a good adventure!
 
+- 🌱 I’m currently learning Python, Pygame, C#
+- 🤔 I’m looking for help with my ambitious project!
+- 📫 REACH ME by email if you are interested, I will reply ASAP!
+
 <!--
 **woodenpython/woodenpython** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
